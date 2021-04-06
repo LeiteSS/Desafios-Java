@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>Testando</title>
+	<description>www.canitrun.com</description>
+	<link>Testando...1,2...testando...som, som, som...testando...Ta funcionando?...som...testando</link>
+	<language>pt-br</language>
+	<copyright>Testes Testando</copyright>
+	<pubdate>Sat, 04 Apr 2020 15:11:45 -0300</pubdate>
+<item>
+	<title>RSS Feed - Radio Jamaica</title>
+	<description>Da Jamaica até sua casa</description>
+	<link>rss.rss.rss.rss</link>
+	<author>Niko Mai Breda</author>
+	<guid>rss.rss.rss.rss</guid>
+
+
+</item>
+</channel>
+</rss>
